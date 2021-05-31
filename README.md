@@ -4,7 +4,5 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Sandrokhagulashvili@gmail.com
 
-<!---
-Xagula/Xagula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey! I am Xagula my real name is Sandro just friends call me Xagula. I am newbie in software development, I am looking for acquire new skills and learn new things, I am learning everything from internet and self teaching my self! I know basics of python, know how to use html and css and i will be honest I have solid knowladge in both and if i miss something in any of them I know where to find that information! I started learning solidity bcs i want to become blockchain developer I am very motivated watched some tutorials on youtube and i will be happy if someone hires me as junior developer and teach me new skills so i will do some work for them. I am very motivated, I know I should done it earlier to start educating myself and I am regreting the seconds I lost in gaming, yes i am gamer well i wasted to much time on gaming and got nothing from them kinda i was addicted to pleasure and fun now i had left behind that harmfull behavior and got back on track. I have some and even solid experience in different fields especially in science also i can call myself kinda educated one just it neds to be updated. 
+So here i am 20 year old Sandro who looks a mentor to guide him as a developer. i have some skills and i am sure i will develope more ones i am very motivated person now i had some lazy past but it changed even when i was lazy i acquired knowladge which is very helpful forme today i am sure with this mindset (not mode) i will crush everything i will put my hand on so look forward for feedback! 
